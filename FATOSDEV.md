@@ -1,17 +1,23 @@
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <Jaqueline>
+## Primeiro fato sobre Jaqueline
 Tenho 28 anos e sou de São Paulo;
 
-## Primeiro fato sobre <Bruna>
+## Primeiro fato sobre Bruna
 Tenho 28 anos e sou de Mongaguá;
 
-## Segundo fato sobre <Jaqueline>
+## Primeiro fato sobre Jonathan
+Tenho 24 anos e sou de São Paulo - SP;
+
+## Segundo fato sobre Jaqueline
 Meu esporte preferido é o handball;
 
-## Segundo fato sobre <Bruna>
+## Segundo fato sobre Bruna
 Meu sonho é trabalhar na Espanha;
 
-## Terceiro fato sobre <Jaqueline>
-tenho como hobbies, viajar, séries e sociais;
->>>>>>> 2f66bc68deae831427f6cfb1c40588f547bdb919
+## Terceiro fato sobre Jaqueline
+Tenho como hobbies, viajar, séries e sociais;
+  
+## Terceiro fato sobre Bruna
+Amo series, animes e filmes;
+
