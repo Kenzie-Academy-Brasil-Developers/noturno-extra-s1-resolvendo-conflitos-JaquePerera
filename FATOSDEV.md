@@ -1,6 +1,5 @@
 # Entrega: Resolvendo Conflitos.
 
-
 ## Primeiro fato sobre Jaqueline
 Tenho 28 anos e sou de São Paulo;
 
@@ -25,3 +24,6 @@ Tenho 24 anos e sou de São Paulo - SP;
 ## Segundo fato sobre <Jonathan>
 Meus hobbies incluem jogar, ler,assistir filmes e séries;
   
+## Terceiro fato sobre <Jonathan>
+Tenho vontade de morar em um país frio, como Canadá, Noruega ou Nova Zelândia;
+
