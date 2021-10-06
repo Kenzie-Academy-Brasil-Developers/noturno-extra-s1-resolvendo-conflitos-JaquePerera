@@ -1,4 +1,4 @@
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <Jaqueline>
-Tenho 28 anos e sou de São Paulo;
+## Segundo fato sobre <Jonathan>
+Meus hobbies incluem jogar, ler,assistir filmes e séries;
