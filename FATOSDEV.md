@@ -21,9 +21,9 @@ Amo series, animes e filmes;
 ## Primeiro fato sobre Jonathan
 Tenho 24 anos e sou de São Paulo - SP;
 
-## Segundo fato sobre <Jonathan>
+## Segundo fato sobre Jonathan
 Meus hobbies incluem jogar, ler,assistir filmes e séries;
   
-## Terceiro fato sobre <Jonathan>
+## Terceiro fato sobre Jonathan
 Tenho vontade de morar em um país frio, como Canadá, Noruega ou Nova Zelândia;
 
