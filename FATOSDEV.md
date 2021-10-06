@@ -1,4 +1,4 @@
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <Jaqueline>
-Tenho 28 anos e sou de São Paulo;
+## Primeiro fato sobre <Bruna>
+Tenho 28 anos e sou de Mongaguá;
