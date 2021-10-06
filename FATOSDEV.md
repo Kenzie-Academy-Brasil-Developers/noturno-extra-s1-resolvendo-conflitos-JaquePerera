@@ -1,4 +1,4 @@
 # Entrega: Resolvendo Conflitos.
 
-## Segundo fato sobre <Jonathan>
-Meus hobbies incluem jogar, ler,assistir filmes e séries;
+## Terceiro fato sobre <Jonathan>
+Tenho vontade de morar em um país frio, como Canadá, Noruega ou Nova Zelândia;
